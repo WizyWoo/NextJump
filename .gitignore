@@ -1,0 +1,7 @@
+/*
+!Assets/
+Assets/*.meta
+!ProjectSettings
+!ProjectSettings/*
+!.gitignore
+!Packages/
